@@ -6,3 +6,5 @@
 - Ermengol
 - Pol
 - Susana
+- Antonio
+- Francisco
