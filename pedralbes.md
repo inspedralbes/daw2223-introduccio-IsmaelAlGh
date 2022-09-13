@@ -6,6 +6,6 @@
 - Ermengol
 - Pol
 - Susana
-- Antonio
-- Francisco
-- Carlos
+- Leonardo
+- Lourdes
+- Pedro
